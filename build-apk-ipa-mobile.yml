@@ -1,10 +1,11 @@
 # make repository : flet_nize
 # make main.py & requirements,txt
 # Click Actions
-# Click pset up a workflow yourself
+# Click set up a workflow yourself
 # name it any.yml : here (build-apk-ipa-mobile.yml)
 # paste Down rows in it and commit it
-
+# Click Actions
+# Click build-apk-ipa-mobile.yml
 name: All Builds (Linux, macOS, Windows, Android, IPA, APK, AAB)
 
 on:
